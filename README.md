@@ -1,2 +1,2 @@
 #Gensidian
-An AI obsidian plug-in for creating smart templates. 
+An Obsidian plug-in for creating smart templates. 
